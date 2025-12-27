@@ -7,7 +7,7 @@ class Employee {
 private:
     int number;
 
-    float salary;
+   float salary;
 
 public:
     Employee() : number(0), salary(0.0f) {}
